@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
 {
-
 int X,Y,Z;
 printf("\n enter the first no:");
 scanf("%d",&X);
